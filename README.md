@@ -12,6 +12,8 @@ The pizza restaurant wants an annual sales report for 2015, so the owner can und
 
 - <a href="https://github.com/Nayankumar746/Data_Analysis_Dashboard/blob/main/pizza_sales_excel_file.xlsx">Pizza_sales_dataset</a>
 
+## SQL queries used to calculate KPIs and build the Power BI dashboard
+
 ## Questions(KPIs)
 
 - What are the total revenue, total orders, total pizzas sold, average order value, and average pizzas per order?
