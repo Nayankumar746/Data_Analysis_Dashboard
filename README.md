@@ -9,3 +9,5 @@ interactive 2-page dashboard.
 The pizza restaurant wants an annual sales report for 2015, so the owner can understand ordering patterns, identify best- and worst-performing pizzas, and plan menu and staffing decisions for the year ahead.
 
 ## Dataset used:
+- <a href="https://github.com/Nayankumar746/Data_Analysis_Dashboard/blob/main/pizza_sales_excel_file.xlsx">Pizza_sales_dataset</a>
+
