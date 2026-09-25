@@ -52,3 +52,5 @@ From this analysis, I found that Friday and Saturday get the most orders, while 
 ## Dashboard Image
 
 - <a href="https://github.com/Nayankumar746/Data_Analysis_Dashboard/blob/main/Screenshot%202026-09-25%20094454.png"> Image 1st</a>
+
+- <a href="https://github.com/Nayankumar746/Data_Analysis_Dashboard/blob/main/Screenshot%202026-09-25%20094515.png"> Image 2nd</a>
