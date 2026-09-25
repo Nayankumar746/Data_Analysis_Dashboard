@@ -48,3 +48,7 @@ The pizza restaurant wants an annual sales report for 2015, so the owner can und
 ## Final Conclusion
 
 From this analysis, I found that Friday and Saturday get the most orders, while Sunday and Tuesday are the slowest, so the restaurant could run mid-week offers to balance this out. July turned out to be the busiest month, so they should plan extra staff and stock around that time. I also noticed that Large size pizzas make up almost half of all sales, and Chicken category pizzas bring in more revenue even though Classic pizzas sell in higher numbers — so promoting Chicken pizzas more could help increase revenue. Lastly, the Brie Carre Pizza performed the worst in every measure I checked (revenue, quantity, and orders), so the restaurant might want to review or replace it. Overall, this project helped me understand how a business can use simple sales data to make better decisions about menu items, staffing, and offers.
+
+## Dashboard Image
+
+- <a href="https://github.com/Nayankumar746/Data_Analysis_Dashboard/blob/main/Screenshot%202026-09-25%20094454.png"> Image 1st</a>
